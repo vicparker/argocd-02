@@ -1,8 +1,8 @@
 apiVersion: cluster.x-k8s.io/v1beta2
 kind: Cluster
 metadata:
-  name: kubernetes-cluster-vic6
-  namespace: argocd-02-ns
+  name: kubernetes-cluster-vic44
+  namespace: argo-managed-ns
 spec:
   clusterNetwork:
     pods:
